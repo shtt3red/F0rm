@@ -1,5 +1,5 @@
 ### о себе : 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTR5ZXI5NzdkbHJ4OWNqdm9yeXdsZzcxNDV2aDF0N3hmZjZldWJkdiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/Zl7u48zLVFgLpRwq6f/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmdlZWxic253bmEzcG80eW9rMm9jdnc4ZmM1MWM3dmNrbXE5YnVtaiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/TKa7fQzChHylCQ89to/giphy.gif" width="100"/>
 
 ### для перехода в админ-панель: 
 
