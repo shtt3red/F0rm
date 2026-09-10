@@ -5,4 +5,4 @@
 
 1) в главном меню при выборе действий впишите - /adm;
 2) логин - admin + Enter;
-3) пароль - admin + Down Arrow
+3) пароль - admin + Down Arrow.
